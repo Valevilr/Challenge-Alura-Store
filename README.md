@@ -6,7 +6,6 @@ Este proyecto consiste en un análisis de datos de cuatro tiendas de Alura Store
 
 Se analizaron indicadores clave como ingresos totales, categorías de productos más vendidas, calificación promedio de clientes, productos más y menos vendidos, costo promedio de envío y desempeño geográfico.
 
----
 
 ##  Herramientas utilizadas
 
@@ -15,7 +14,6 @@ Se analizaron indicadores clave como ingresos totales, categorías de productos 
 - Matplotlib
 - Google Colab
 
----
 
 ##  Análisis realizados
 
@@ -26,15 +24,13 @@ Se analizaron indicadores clave como ingresos totales, categorías de productos 
 5. Costo promedio de envío
 6. Desempeño geográfico
 
----
 
 ##  Resultado
 
 Después de analizar todos los indicadores, se determinó que la Tienda 4 presenta el menor desempeño general, principalmente por su menor facturación total, por lo que se recomienda su venta.
 
----
 
 ##  Autor
 
 Valeria Villegas 
-Estudiante deL Programa ONE 
+Estudiante del Programa ONE 
